@@ -1,1 +1,1 @@
-![Architecture](./architecture.drawio.svg)
+![Architecture](./architecture.drawio.png)
